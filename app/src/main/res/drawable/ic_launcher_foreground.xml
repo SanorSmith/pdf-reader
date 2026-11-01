@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- page -->
+    <path android:fillColor="#FFFFFF" android:pathData="M36,26H62L76,40V82H36Z" />
+    <!-- folded corner -->
+    <path android:fillColor="#FFCDD2" android:pathData="M62,26V40H76Z" />
+    <!-- text lines -->
+    <path android:fillColor="#BDBDBD" android:pathData="M42,47H58V50H42Z" />
+    <path android:fillColor="#BDBDBD" android:pathData="M42,53H70V56H42Z" />
+    <!-- PDF badge -->
+    <path android:fillColor="#D32F2F" android:pathData="M42,62H70V76H42Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M46,65H48V73H46ZM48,65H52V67H48ZM48,68H52V70H48ZM52,66H54V69H52Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M56,65H58V73H56ZM58,65H61V67H58ZM58,71H61V73H58ZM61,66H63V72H61Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M65,65H67V73H65ZM67,65H69V67H67ZM67,68H69V70H67Z" />
+</vector>
